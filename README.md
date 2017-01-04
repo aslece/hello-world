@@ -1,3 +1,4 @@
 # hello-world
 first GitHub try 
-still trying to understand :)
+-still trying to understand :)
+-first branch
